@@ -13,4 +13,6 @@ def link
 end 
 
 def all_phrase
+  mario
+  
 end 
